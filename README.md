@@ -50,8 +50,6 @@
 - Uso de aparato de limpieza (ICSS 300P EVO).  
 - Uso de carretillas.
 
-[![Si quieres saber más de mí, pincha aquí](https://e7.pngegg.com/pngimages/950/764/png-clipart-graphics-open-experienced-elementary-teacher-resume-computer-cartoon.png)](file:///C:/Users/2%C2%BAASIRN/Downloads/Curri%CC%81culum_JuanJose.pdf)
-
 ## TABLA DE HABILIDADES
 
 | **Categoría**           | **Descripción**                                            |
@@ -61,5 +59,7 @@
 | **Base de Datos** | Instalación, Configuración y Administración de Oracle, Scripts en oracle, ... |
 | **Herramientas**        | Conocimiento de herramientas como Wireshark, GitHub,  ...  |
 | **Lenguajes de Programación** | Python, Bash, PowerShell, ... |
-| **Sistemas Operativos** | Windows Server, Debian, Ubuntu, Alpine, CentOS, ... |
+| **Sistemas Operativos** | Windows Server, Debian, Ubuntu, Alpine, CentOS, ... |  
+
+[![Si quieres saber más de mí, pincha aquí](https://e7.pngegg.com/pngimages/950/764/png-clipart-graphics-open-experienced-elementary-teacher-resume-computer-cartoon.png)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJssBsFlXCRTSNhfZBgqfFsNv?projector=1&messagePartId=0.1)
 
