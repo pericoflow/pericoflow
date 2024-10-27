@@ -61,5 +61,5 @@
 | **Lenguajes de Programación** | Python, Bash, PowerShell, ... |
 | **Sistemas Operativos** | Windows Server, Debian, Ubuntu, Alpine, CentOS, ... |  
 
-[![Si quieres saber más de mí, pincha aquí](https://e7.pngegg.com/pngimages/950/764/png-clipart-graphics-open-experienced-elementary-teacher-resume-computer-cartoon.png)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJssBsFlXCRTSNhfZBgqfFsNv?projector=1&messagePartId=0.1)
+[![Si quieres saber más de mí, pincha aquí](https://www.flaticon.es/icono-gratis/curriculum-vitae_2674894?related_id=2674880&origin=search)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJssBsFlXCRTSNhfZBgqfFsNv?projector=1&messagePartId=0.1)
 
