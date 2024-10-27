@@ -9,7 +9,7 @@
 ## Educación
 - **ESO**  
   *20/09/2016 - 20/06/2021*  
-  *IES Caura*  
+  *[IES Caura](https://iescaura.com/)*  
 - **Grado Medio en Instalaciones de Telecomunicaciones**   
  *20/09/2021 - 07/06/2023*  
  *IES Caura*  
