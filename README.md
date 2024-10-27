@@ -7,6 +7,7 @@
 > Soy un estudiante de telecomunicaciones e informática con formación técnica en constante crecimiento. He completado el Grado Medio en Instalaciones de Telecomunicaciones, donde he aprendido los fundamentos de la instalación y el mantenimiento de sistemas de comunicación. Durante este tiempo, adquirí habilidades prácticas que me han permitido familiarizarme con el funcionamiento de distintos equipos y tecnologías.  
 Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Informáticos en Red. En esta etapa, estoy aprendiendo sobre administración de redes, servidores y seguridad informática. Mi objetivo es continuar desarrollando mis conocimientos en este campo, aplicando lo aprendido en entornos reales y colaborando en proyectos que me permitan seguir creciendo tanto a nivel personal como profesional.
 
+
 ## DATOS PERSONALES  
 - **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
 - **Teléfono:** +34 662255108  
