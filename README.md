@@ -21,10 +21,10 @@
 
 | **Categoría**           | **Descripción**                                            |
 |-------------------------|----------------------------------------------------------|
-| **Redes**               | Diseño de redes, Monitorización de redes usando Wireshark, PacketTracer.                 |
-| **Ciberseguridad**      | Análisis de vulnerabilidades, gestión de incidentes, ... |
+| **Redes**               | Diseño de redes, Monitorización de redes usando Wireshark, PacketTracer,... |
+| **Ciberseguridad**      | Análisis de vulnerabilidades, tratamiento, gestión y resolución de incidentes, ... |
 | **Base de Datos** | Instalación, configuración y administración de Oracle, Scripts en oracle,... |
 | **Herramientas**        | Conocimiento de herramientas como Wireshark, Cisco, CentOS, ...  |
-| **Lenguajes de Programación** | Python, Bash, PowerShell, ...                             |
+| **Lenguajes de Programación** | Python, Bash, PowerShell, ... |
 | **Sistemas Operativos** | Windows Server, Debian, Ubuntu, Alpine, ... |
 
