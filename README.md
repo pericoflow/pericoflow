@@ -1,10 +1,10 @@
 # <h1 align="center">Juan José Campos Gómez</h1>
 
 ## DATOS PERSONALES  
-> - **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
-> - **Teléfono:** [+34 662255108](+34 662255108)  
-> - **Ubicación:** Coria del Río, Sevilla  
-> - **Nacionalidad:** Española
+- **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
+- **Teléfono:** +34 662255108  
+- **Ubicación:** Coria del Río, Sevilla  
+- **Nacionalidad:** Española
 
 
 
