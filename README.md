@@ -17,13 +17,13 @@
  *20/09/2023 - Actualmete*  
  *IES Rodrigo Caro*
 
-  ## Tabla de Habilidades
+## Tabla de Habilidades
 
 | **Categoría**           | **Descripción**                                            |
 |-------------------------|----------------------------------------------------------|
 | **Redes**               | Diseño de redes, Monitorización de redes usando Wireshark, Cisco PacketTracer, ... |
-| **Ciberseguridad**      | Análisis de vulnerabilidades, tratamiento, gestión y resolución de incidentes, ... |
-| **Base de Datos** | Instalación, configuración y administración de Oracle, Scripts en oracle, ... |
+| **Ciberseguridad**      | Análisis de vulnerabilidades, Tratamiento, Gestión y Resolución de incidentes, ... |
+| **Base de Datos** | Instalación, Configuración y Administración de Oracle, Scripts en oracle, ... |
 | **Herramientas**        | Conocimiento de herramientas como Wireshark, GitHub,  ...  |
 | **Lenguajes de Programación** | Python, Bash, PowerShell, ... |
 | **Sistemas Operativos** | Windows Server, Debian, Ubuntu, Alpine, CentOS, ... |
