@@ -15,7 +15,16 @@
  *[IES Caura](https://iescaura.com/)*  
 - **Grado Superior en Administración de Sistemas Informáticos en Red**  
  *20/09/2023 - Actualmete*  
- *[IES Rodrigo Caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)*  
+ *[IES Rodrigo Caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)*
+
+## Experiencia Laboral
+
+### Repartidor de piezas de repuesto de Automóviles
+**AUTOREPUESTOS PAVON, S.L**  
+*17/07/2023 - 28/07/2023*  
+- Repartidor de piezas de vehículos
+- Reponedor de material en tienda
+- Atención/Vendedor a clientes en tienda
 
 ## Tabla de Habilidades
 
