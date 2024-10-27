@@ -59,7 +59,7 @@
 
 ## TABLA DE HABILIDADES  
 
-| **Categoría**           | **Descripción**                                            |
+| **Categoría** | **Descripción** |
 |-------------------------|----------------------------------------------------------|
 | **Redes**               | Diseño de redes, Monitorización de redes usando Wireshark, Cisco PacketTracer, ... |
 | **Ciberseguridad**      | Análisis de vulnerabilidades, Tratamiento, Gestión y Resolución de incidentes, ... |
@@ -73,7 +73,3 @@
 | ------ | ----- |
 | Español | Nativo |
 | Inglés | Medio |
-
-## SI QUIERES SABER MÁS DE MÍ, PINCHE AQUÍ ##
-[![Mi Currículum](https://cdn-icons-png.flaticon.com/512/2674/2674894.png)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJssBsFlXCRTSNhfZBgqfFsNv?projector=1&messagePartId=0.1)
-
