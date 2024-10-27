@@ -15,4 +15,71 @@
  *IES Caura*  
 - **Grado Superior en Administración de Sistemas Informáticos en Red**  
  *20/09/2023 - Actualmete*  
- *IES Rodrigo Caro*  
+ *IES Rodrigo Caro*
+
+  ## Tabla de Habilidades
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+| Python        | Intermedio |
+| React         | Avanzado   |
+
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+| Python        | Intermedio |
+| React         | 
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+| Python        | Intermedio |
+| R
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+| Python        |
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+| Python 
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Avanzado   |
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScript    | Ava
+
+
+| Habilidad     | Nivel      |
+|---------------|------------|
+| JavaScri
+
+
+| Habilidad     | Nivel      |
+|---------------|------------
+
+
+| Habilidad     | Nivel      |
+|--------------
+
+
+| Habilidad     | Nivel
+
+
+| Habilidad   
+
+
+| Ha
