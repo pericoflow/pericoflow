@@ -7,9 +7,9 @@
 - **Nacionalidad:** Española
 
 ## Educación
-- **ESO**
-  **20/09/2016 - 20/06/2021  **
-  **IES Caura  **
+- **ESO**  
+  *20/09/2016 - 20/06/2021  *
+  *IES Caura  *
 - **Grado Medio en Instalaciones de Telecomunicaciones**  
 *20/09/2021 - 07/06/2023*
 *IES Caura*
