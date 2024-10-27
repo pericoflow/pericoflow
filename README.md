@@ -1,3 +1,5 @@
+# <h1 align="center">Juan José Campos Gómez</h1>  
+
 <p align="center">
   <img src="https://github.com/pericoflow/imagenes/blob/main/Encabezado_JuanJos%C3%A9.png">
 </p>
@@ -11,8 +13,6 @@ Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Inf
 - **Teléfono:** +34 662255108  
 - **Ubicación:** Coria del Río, Sevilla  
 - **Nacionalidad:** Española
-
-
 
 ## EDUCACIÓN  
 - **ESO**  
