@@ -73,3 +73,5 @@
 | ------ | ----- |
 | Español | Nativo |
 | Inglés | Medio |
+
+![Sistemas Operativos](https://www.estrategiamagazine.com/wp-content/uploads/2018/04/sistema-operativo-programa-que-administra-los-recursos.png)
