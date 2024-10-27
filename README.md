@@ -43,12 +43,14 @@
 *Palomares del Río, Sevilla*  
 - Limpiar piezas.  
 - Tornado.  
-- Comprobar el estado de las piezas.
-- Comprobar el funcionamiento de las máquinas.
-- Lijar y vibrar piezas.
-- Uso de Puente Grúa.
-- Uso de aparato de limpieza (ICSS 300P EVO)
-- Uso de carretillas
+- Comprobar el estado de las piezas.  
+- Comprobar el funcionamiento de las máquinas.  
+- Lijar y vibrar piezas.  
+- Uso de Puente Grúa.  
+- Uso de aparato de limpieza (ICSS 300P EVO).  
+- Uso de carretillas.
+
+[![Si quieres saber más de mí, pincha aquí](https://e7.pngegg.com/pngimages/950/764/png-clipart-graphics-open-experienced-elementary-teacher-resume-computer-cartoon.png)](file:///C:/Users/2%C2%BAASIRN/Downloads/Curri%CC%81culum_JuanJose.pdf)
 
 ## TABLA DE HABILIDADES
 
