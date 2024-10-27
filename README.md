@@ -19,12 +19,21 @@
 
 ## Experiencia Laboral
 
+### Técnico en Telecomunicaciones
+**[IBC (International Business Copiers)](https://www.ibccopiers.com/)**  
+*20/03/2023 - 07/06/2023*  
+- Mantenimiento de Impresoras.
+- Relaciones con los proveedores, tanto nacional como internacional.
+- Reparaciones de Impresoras.
+- Empaquetaciones de máquinas para pedidos de clientes internacionales.
+- Descarga/Carga de Mercancías.
+
 ### Repartidor de piezas de repuesto de Automóviles
-**AUTOREPUESTOS PAVON, S.L**  
+**[AUTOREPUESTOS PAVON, S.L](https://talleresyrepuestospavon.com/)**  
 *17/07/2023 - 28/07/2023*  
-- Repartidor de piezas de vehículos
-- Reponedor de material en tienda
-- Atención/Vendedor a clientes en tienda
+- Repartidor de piezas de vehículos.
+- Reponedor de material en tienda.
+- Atención/Vendedor a clientes en tienda.
 
 ## Tabla de Habilidades
 
