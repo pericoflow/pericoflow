@@ -23,38 +23,38 @@
 **[IBC (International Business Copiers)](https://www.ibccopiers.com/)**  
 *20/03/2023 - 07/06/2023*  
 *Palomares del Río, Sevilla*  
-```
-- Mantenimiento de Impresoras.  
-- Relaciones con los proveedores, tanto nacional como internacional.  
-- Reparaciones de Impresoras.  
-- Empaquetaciones de máquinas para pedidos de clientes internacionales.  
-- Descarga/Carga de Mercancías.
-```
+
+> - Mantenimiento de Impresoras.  
+> - Relaciones con los proveedores, tanto nacional como internacional.  
+> - Reparaciones de Impresoras.  
+> - Empaquetaciones de máquinas para pedidos de clientes internacionales.  
+> - Descarga/Carga de Mercancías.
+
 
 ### Repartidor de piezas de repuesto de Automóviles
 **[AUTOREPUESTOS PAVON, S.L](https://talleresyrepuestospavon.com/)**  
 *17/07/2023 - 28/07/2023*  
 *Coria del Río, Sevilla*  
-```
-- Repartidor de piezas de vehículos.  
-- Reponedor de material en tienda.  
-- Atención/Vendedor a clientes en tienda.  
-```
+
+> - Repartidor de piezas de vehículos.  
+> - Reponedor de material en tienda.  
+> - Atención/Vendedor a clientes en tienda.  
+
 
 ### Peón Sidero
 **[AND&OR](https://andyor.com/)**  
 *09/05/2024 - 24/05/2024*  
 *Palomares del Río, Sevilla*  
-```
-- Limpiar piezas.  
-- Tornado.  
-- Comprobar el estado de las piezas.  
-- Comprobar el funcionamiento de las máquinas.  
-- Lijar y vibrar piezas.  
-- Uso de Puente Grúa.  
-- Uso de aparato de limpieza (ICSS 300P EVO).  
-- Uso de carretillas.
-```
+
+> - Limpiar piezas.  
+> - Tornado.  
+> - Comprobar el estado de las piezas.  
+> - Comprobar el funcionamiento de las máquinas.  
+> - Lijar y vibrar piezas.  
+> - Uso de Puente Grúa.  
+> - Uso de aparato de limpieza (ICSS 300P EVO).  
+> - Uso de carretillas.
+
 
 ## TABLA DE HABILIDADES
 
