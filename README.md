@@ -1,12 +1,12 @@
 # Juan José Campos Gómez
 
-## Datos Personales
+## DATOS PERSONALES
 - **Email:** jjcampgom@gmail.com
 - **Teléfono:** +34 662255108
 - **Ubicación:** Coria del Río, Sevilla
 - **Nacionalidad:** Española
 
-## Educación
+## EDUCACIÓN
 - **ESO**  
   *20/09/2016 - 20/06/2021*  
   *[IES Caura](https://iescaura.com/)*  
@@ -17,7 +17,7 @@
  *20/09/2023 - Actualmete*  
  *[IES Rodrigo Caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)*
 
-## Experiencia Laboral
+## EXPERENCIA LABORAL
 
 ### Técnico en Telecomunicaciones
 **[IBC (International Business Copiers)](https://www.ibccopiers.com/)**  
@@ -50,7 +50,7 @@
 - Uso de aparato de limpieza (ICSS 300P EVO)
 - Uso de carretillas
 
-## Tabla de Habilidades
+## TABLA DE HABILIDADES
 
 | **Categoría**           | **Descripción**                                            |
 |-------------------------|----------------------------------------------------------|
