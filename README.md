@@ -24,3 +24,11 @@
 | JavaScript    | Avanzado   |
 | Python        | Intermedio |
 | React         | Avanzado   |
+
+| **Categoría**           | **Descripción**                                            |
+|-------------------------|----------------------------------------------------------|
+| **Redes**               | Configuración y administración de redes.                 |
+| **Ciberseguridad**      | Análisis de vulnerabilidades, gestión de incidentes, y más. |
+| **Herramientas**        | Conocimiento de herramientas como Wireshark, Metasploit, Nmap, entre otras. |
+| **Lenguajes de Programación** | Python, Bash, PowerShell.                             |
+
