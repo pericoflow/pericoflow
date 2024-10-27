@@ -12,10 +12,10 @@
   *[IES Caura](https://iescaura.com/)*  
 - **Grado Medio en Instalaciones de Telecomunicaciones**   
  *20/09/2021 - 07/06/2023*  
- *IES Caura*  
+ *[IES Caura](https://iescaura.com/)*  
 - **Grado Superior en Administración de Sistemas Informáticos en Red**  
  *20/09/2023 - Actualmete*  
- *IES Rodrigo Caro*
+ *[IES Rodrigo Caro](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)*  
 
 ## Tabla de Habilidades
 
