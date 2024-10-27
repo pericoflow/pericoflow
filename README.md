@@ -1,4 +1,4 @@
-# Juan José Campos Gómez
+# <h1 align="center">Juan José Campos Gómez</h1>
 
 ## DATOS PERSONALES  
 - **Email:** jjcampgom@gmail.com  
