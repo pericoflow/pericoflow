@@ -1,12 +1,11 @@
 # Juan José Campos Gómez
 
 ## DATOS PERSONALES  
-```
 - **Email:** jjcampgom@gmail.com  
 - **Teléfono:** +34 662255108  
 - **Ubicación:** Coria del Río, Sevilla  
 - **Nacionalidad:** Española
-```
+
 
 ## EDUCACIÓN  
 - **ESO**  
