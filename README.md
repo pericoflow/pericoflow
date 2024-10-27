@@ -35,7 +35,20 @@
 *Coria del Río, Sevilla*  
 - Repartidor de piezas de vehículos.  
 - Reponedor de material en tienda.  
-- Atención/Vendedor a clientes en tienda.  
+- Atención/Vendedor a clientes en tienda.
+
+### Peón Sidero
+**[AND&OR](https://andyor.com/)**  
+*09/05/2024 - 24/05/2024*  
+*Palomares del Río, Sevilla*  
+- Limpiar piezas.  
+- Tornado.  
+- Comprobar el estado de las piezas.
+- Comprobar el funcionamiento de las máquinas.
+- Lijar y vibrar piezas.
+- Uso de Puente Grúa.
+- Uso de aparato de limpieza (ICSS 300P EVO)
+- Uso de carretillas
 
 ## Tabla de Habilidades
 
