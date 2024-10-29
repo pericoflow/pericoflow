@@ -9,10 +9,10 @@ Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Inf
 
 
 ## DATOS PERSONALES  
-- **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
-- **Teléfono:** +34 662255108  
-- **Ubicación:** Coria del Río, Sevilla  
-- **Nacionalidad:** Española
+> - **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
+> - **Teléfono:** +34 662255108  
+> - **Ubicación:** Coria del Río, Sevilla  
+> - **Nacionalidad:** Española
 
 ## EDUCACIÓN  
 - **ESO**  
