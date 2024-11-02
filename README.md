@@ -1,12 +1,11 @@
 # <h1 align="center">Juan José Campos Gómez</h1>  
 
-https://github.com/pericoflow/pericoflow/blob/main/img/Encabezado_JuanJos%C3%A9.png
-
- ![Encabezado](./img/Encabezado_JuanJosé.png)  
+<p align="center">
+  <img src="https://github.com/pericoflow/pericoflow/blob/main/img/Encabezado_JuanJos%C3%A9.png">
+</p>   
    
 > Soy un estudiante de telecomunicaciones e informática con formación técnica en constante crecimiento. He completado el Grado Medio en Instalaciones de Telecomunicaciones, donde he aprendido los fundamentos de la instalación y el mantenimiento de sistemas de comunicación. Durante este tiempo, adquirí habilidades prácticas que me han permitido familiarizarme con el funcionamiento de distintos equipos y tecnologías.  
 Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Informáticos en Red. En esta etapa, estoy aprendiendo sobre administración de redes, servidores y seguridad informática. Mi objetivo es continuar desarrollando mis conocimientos en este campo, aplicando lo aprendido en entornos reales y colaborando en proyectos que me permitan seguir creciendo tanto a nivel personal como profesional.
-
 
 ## DATOS PERSONALES  
 - **Email:** [jjcampgom@gmail.com](jjcampgom@gmail.com)  
@@ -38,7 +37,6 @@ Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Inf
 > - Empaquetaciones de máquinas para pedidos de clientes internacionales.  
 > - Descarga/Carga de Mercancías.
 
-
 ### Repartidor de piezas de repuesto de Automóviles
 **[AUTOREPUESTOS PAVON, S.L](https://talleresyrepuestospavon.com/)**  
 *17/07/2023 - 28/07/2023*  
@@ -47,7 +45,6 @@ Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Inf
 > - Repartidor de piezas de vehículos.  
 > - Reponedor de material en tienda.  
 > - Atención/Vendedor a clientes en tienda.  
-
 
 ### Peón Sidero
 **[AND&OR](https://andyor.com/)**  
@@ -62,7 +59,6 @@ Actualmente, estoy cursando el Grado Superior en Administración de Sistemas Inf
 > - Uso de Puente Grúa.  
 > - Uso de aparato de limpieza (ICSS 300P EVO).  
 > - Uso de carretillas.
-
 
 ## TABLA DE HABILIDADES  
 
