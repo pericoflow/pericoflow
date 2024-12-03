@@ -1,4 +1,4 @@
-### <h1 align="center">Juan José Campos Gómez</h1>  
+### <h1 align="center">Currículum de Juan José Campos Gómez</h1>  
 
 <p align="center">
   <img src="https://github.com/pericoflow/pericoflow/blob/main/img/Encabezado_JuanJos%C3%A9.png">
